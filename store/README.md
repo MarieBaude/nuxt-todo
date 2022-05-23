@@ -1,10 +1,19 @@
-# STORE
+<h1 align="center">Nuxt Todo list 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-**This directory is not required, you can delete it if you don't want to use it.**
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
-This directory contains your Vuex Store files.
-Vuex Store option is implemented in the Nuxt.js framework.
+## Contexte
+Text de Nuxt avec une Todo list
 
-Creating a file in this directory automatically activates the option in the framework.
+## Installation
+```sh
+En cours
+```
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/vuex-store).
+## Auteur
+👤 **Marie Baude**
+* Github: [@MarieBaude](https://github.com/MarieBaude)
+
